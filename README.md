@@ -1,6 +1,6 @@
 # Pizza
 
 pizza base
-pizza cheez
+pizza cheese
 
 bake
